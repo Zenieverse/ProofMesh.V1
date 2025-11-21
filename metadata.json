@@ -1,0 +1,5 @@
+{
+  "name": "ProofMesh.V1",
+  "description": "A trust layer that verifies the origin, authenticity, and modification history of AI-generated and human-generated content on Hedera.",
+  "requestFramePermissions": []
+}
